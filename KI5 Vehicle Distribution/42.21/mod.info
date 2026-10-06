@@ -1,0 +1,5 @@
+name=KI5 Vehicle Distribution
+id=KI5VehicleDistribution
+require=62daimlerFerret,70chevelle,78amgeneralM35A2,82oshkoshM911,92amgeneralM998,isoContainers
+icon=icon.png
+description=Personalized spawn zone and spawn weights for KI5 vehicles.
